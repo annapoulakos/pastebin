@@ -1,0 +1,34 @@
+[Proteus, Maze]
+Medium Armor Repairer II
+Medium Armor Repairer II
+Medium Armor Repairer II
+Armor Kinetic Hardener II
+Armor EM Hardener II
+Armor EM Hardener II
+800mm Reinforced Rolled Tungsten Plates I
+
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Drone Link Augmentor I
+[empty high slot]
+[empty high slot]
+[empty high slot]
+Improved Cloaking Device II
+
+Medium Auxiliary Nano Pump I
+Medium Auxiliary Nano Pump I
+Medium Trimark Armor Pump I
+
+Proteus Defensive - Nanobot Injector
+Proteus Electronics - Dissolution Sequencer
+Proteus Engineering - Capacitor Regeneration Matrix
+Proteus Offensive - Drone Synthesis Projector
+Proteus Propulsion - Wake Limiter
+
+
+Hammerhead II x5
+Vespa EC-600 x5
+Hobgoblin II x5

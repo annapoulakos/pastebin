@@ -1,0 +1,21 @@
+2013-03-02 16:19:05 [INFO] [ForgeModLoader] Forge Mod Loader version 4.7.35.556 for Minecraft 1.4.7 loading
+2013-03-02 16:19:05 [FINEST] [ForgeModLoader] All core mods are successfully located
+2013-03-02 16:19:05 [FINEST] [ForgeModLoader] Discovering coremods
+2013-03-02 16:19:05 [FINEST] [ForgeModLoader] Found a candidate coremod [1.4.6]TreeCapitator.Forge.1.4.6.r06.Uni.CoreMod.jar
+2013-03-02 16:19:05 [FINEST] [ForgeModLoader] Loading coremod [1.4.6]TreeCapitator.Forge.1.4.6.r06.Uni.CoreMod.jar
+2013-03-02 16:19:05 [FINEST] [ForgeModLoader] Loaded coremod [1.4.6]TreeCapitator.Forge.1.4.6.r06.Uni.CoreMod.jar
+2013-03-02 16:19:05 [FINEST] [ForgeModLoader] Found a candidate coremod CodeChickenCore 0.7.3.jar
+2013-03-02 16:19:05 [FINEST] [ForgeModLoader] Loading coremod CodeChickenCore 0.7.3.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loaded coremod CodeChickenCore 0.7.3.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Found a candidate coremod miscperipherals-3.1b.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loading coremod miscperipherals-3.1b.jar
+2013-03-02 16:19:06 [INFO] [MiscPeripheralsASM] Initialized
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loaded coremod miscperipherals-3.1b.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Found a candidate coremod NotEnoughItems 1.4.7.0.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loading coremod NotEnoughItems 1.4.7.0.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loaded coremod NotEnoughItems 1.4.7.0.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Found a candidate coremod PowerCrystalsCore-1.0.3-34.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loading coremod PowerCrystalsCore-1.0.3-34.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loaded coremod PowerCrystalsCore-1.0.3-34.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Found a candidate coremod Railfix.jar
+2013-03-02 16:19:06 [FINEST] [ForgeModLoader] Loading coremod Railfix.jar

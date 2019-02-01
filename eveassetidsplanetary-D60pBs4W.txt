@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- EVE Online Market Helper Utility -->
+<!-- Item Identification File -->
+<!-- Version 2.0 - Planetary Resources Only -->
+<Items>
+	<!-- Resources -->
+	<Item>
+		<Name>Aqueous Liquids</Name>
+		<ID>2268</ID>
+	</Item>
+	<Item>
+		<Name>Autotrophs</Name>
+		<ID>2305</ID>
+	</Item>
+	<Item>
+		<Name>Base Metals</Name>
+		<ID>2267</ID>
+	</Item>
+	<Item>
+		<Name>Carbon Compounds</Name>
+		<ID>2288</ID>
+	</Item>
+	<Item>
+		<Name>Complex Organisms</Name>
+		<ID>2287</ID>
+	</Item>
+	<Item>
+		<Name>Felsic Magma</Name>
+		<ID>2307</ID>
+	</Item>
+	<Item>
+		<Name>Heavy Metals</Name>
+		<ID>2272</ID>
+	</Item>
+	<Item>
+		<Name>Ionic Solutions</Name>
+		<ID>2309</ID>
+	</Item>
+	<Item>
+		<Name>Micro Organisms</Name>
+		<ID>2073</ID>
+	</Item>
+	<Item>
+		<Name>Noble Gas</Name>
+		<ID>2310</ID>
+	</Item>
+	<Item>
+		<Name>Noble Metals</Name>
+		<ID>2270</ID>
+	</Item>
+	<Item>
+		<Name>Non-CS Crystals</Name>
+		<ID>2306</ID>
+	</Item>
+	<Item>
+		<Name>Planktic Colonies</Name>
+		<ID>2286</ID>
+	</Item>
+	<Item>
+		<Name>Reactive Gas</Name>
+		<ID>2311</ID>
+	</Item>
+	<Item>
+		<Name>Suspended Plasma</Name>
+		<ID>2308</ID>
+	</Item>
+	
+	<!-- P1 Materials -->
+	<Item>
+		<Name>Bacteria</Name>
+		<ID>2393</ID>
+	</Item>
+	<Item>
+		<Name>Biofuels</Name>
+		<ID>2396</ID>
+	</Item>
+	<Item>
+		<Name>Biomass</Name>
+		<ID>3779</ID>
+	</Item>
+	<Item>
+		<Name>Chiral Structures</Name>
+		<ID>2401</ID>
+	</Item>
+	<Item>
+		<Name>Electrolytes</Name>
+		<ID>2390</ID>
+	</Item>
+	<Item>
+		<Name>Industrial Fibers</Name>
+		<ID>2397</ID>
+	</Item>
+	<Item>
+		<Name>Oxidizing Compound</Name>
+		<ID>2392</ID>
+	</Item>
+	<Item>
+		<Name>Oxygen</Name>
+		<ID>3683</ID>
+	</Item>
+	<Item>
+		<Name>Plasmoids</Name>
+		<ID>2389</ID>
+	</Item>
+	<Item>
+		<Name>Precious Metals</Name>
+		<ID>2399</ID>
+	</Item>
+	<Item>
+		<Name>Proteins</Name>
+		<ID>2395</ID>
+	</Item>
+	<Item>
+		<Name>Reactive Metals</Name>
+		<ID>2398</ID>
+	</Item>
+	<Item>
+		<Name>Silicon</Name>
+		<ID>9828</ID>
+	</Item>
+	<Item>
+		<Name>Toxic Metals</Name>
+		<ID>2400</ID>
+	</Item>
+	<Item>
+		<Name>Water</Name>
+		<ID>3645</ID>
+	</Item>
+
+	<!-- P2 Materials -->
+	<Item>
+		<Name>Biocells</Name>
+		<ID>2329</ID>
+	</Item>
+
+	<Item>
+		<Name>Construction Blocks</Name>
+		<ID>3828</ID>
+	</Item>
+
+	<Item>
+		<Name>Consumer Electronics</Name>
+		<ID>9836</ID>
+	</Item>
+
+	<Item>
+		<Name>Coolant</Name>
+		<ID>9832</ID>
+	</Item>
+
+	<Item>
+		<Name>Enriched Uranium</Name>
+		<ID>44</ID>
+	</Item>
+
+	<Item>
+		<Name>Fertilizer</Name>
+		<ID>3693</ID>
+	</Item>
+
+	<Item>
+		<Name>Genetically Enhanced Livestock</Name>
+		<ID>15317</ID>
+	</Item>
+
+	<Item>
+		<Name>Livestock</Name>
+		<ID>3725</ID>
+	</Item>
+
+	<Item>
+		<Name>Mechanical Parts</Name>
+		<ID>3689</ID>
+	</Item>
+
+	<Item>
+		<Name>Microfiber Shielding</Name>
+		<ID>2327</ID>
+	</Item>
+
+	<Item>
+		<Name>Miniature Electronics</Name>
+		<ID>9842</ID>
+	</Item>
+
+	<Item>
+		<Name>Nanites</Name>
+		<ID>2463</ID>
+	</Item>
+
+	<Item>
+		<Name>Oxides</Name>
+		<ID>2317</ID>
+	</Item>
+
+	<Item>
+		<Name>Polyaramids</Name>
+		<ID>2321</ID>
+	</Item>
+
+	<Item>
+		<Name>Polytextiles</Name>
+		<ID>3695</ID>
+	</Item>
+
+	<Item>
+		<Name>Rocket Fuel</Name>
+		<ID>9830</ID>
+	</Item>
+
+	<Item>
+		<Name>Silicate Glass</Name>
+		<ID>3697</ID>
+	</Item>
+
+	<Item>
+		<Name>Superconductors</Name>
+		<ID>9838</ID>
+	</Item>
+
+	<Item>
+		<Name>Supertensile Plastics</Name>
+		<ID>2312</ID>
+	</Item>
+
+	<Item>
+		<Name>Synthetic Oil</Name>
+		<ID>3691</ID>
+	</Item>
+
+	<Item>
+		<Name>Test Cultures</Name>
+		<ID>2319</ID>
+	</Item>
+
+	<Item>
+		<Name>Transmitter</Name>
+		<ID>9840</ID>
+	</Item>
+
+	<Item>
+		<Name>Viral Agent</Name>
+		<ID>3775</ID>
+	</Item>
+
+	<Item>
+		<Name>Water</Name>
+		<ID>2328</ID>
+	</Item>
+
+	<!-- P3 Materials -->
+	<Item>
+		<Name>Biotech Research Reports</Name>
+		<ID>2358</ID>
+	</Item>
+
+	<Item>
+		<Name>Camera Drones</Name>
+		<ID>2345</ID>
+	</Item>
+
+	<Item>
+		<Name>Condensates</Name>
+		<ID>2344</ID>
+	</Item>
+
+	<Item>
+		<Name>Cryoprotectant Solution</Name>
+		<ID>2367</ID>
+	</Item>
+
+	<Item>
+		<Name>Data Chips</Name>
+		<ID>17392</ID>
+	</Item>
+
+	<Item>
+		<Name>Gel</Name>
+		<ID>2348</ID>
+	</Item>
+
+	<Item>
+		<Name>Guidance Systems</Name>
+		<ID>9834</ID>
+	</Item>
+
+	<Item>
+		<Name>Hazmat Detection Systems</Name>
+		<ID>2366</ID>
+	</Item>
+
+	<Item>
+		<Name>Hermetic Membranes</Name>
+		<ID>2361</ID>
+	</Item>
+
+	<Item>
+		<Name>High-Tech Transmitters</Name>
+		<ID>17898</ID>
+	</Item>
+
+	<Item>
+		<Name>Industrial Explosives</Name>
+		<ID>2360</ID>
+	</Item>
+
+	<Item>
+		<Name>Neocoms</Name>
+		<ID>2354</ID>
+	</Item>
+
+	<Item>
+		<Name>Nuclear Reactors</Name>
+		<ID>2352</ID>
+	</Item>
+
+	<Item>
+		<Name>Planetary Vehicles</Name>
+		<ID>9846</ID>
+	</Item>
+
+	<Item>
+		<Name>Robotics</Name>
+		<ID>9848</ID>
+	</Item>
+
+	<Item>
+		<Name>Smartfab Units</Name>
+		<ID>2351</ID>
+	</Item>
+
+	<Item>
+		<Name>Supercomputers</Name>
+		<ID>2349</ID>
+	</Item>
+
+	<Item>
+		<Name>Synthetic Synapses</Name>
+		<ID>2346</ID>
+	</Item>
+
+	<Item>
+		<Name>Transcranial Microcontrollers</Name>
+		<ID>12836</ID>
+	</Item>
+
+	<Item>
+		<Name>Ukomi Super Conductors</Name>
+		<ID>17136</ID>
+	</Item>
+
+	<Item>
+		<Name>Vaccines</Name>
+		<ID>28974</ID>
+	</Item>
+
+	<!-- P4 Materials -->
+	<Item>
+		<Name>Broadcast Node</Name>
+		<ID>2867</ID>
+	</Item>
+
+	<Item>
+		<Name>Integrity Response Drones</Name>
+		<ID>2868</ID>
+	</Item>
+
+	<Item>
+		<Name>Nano-Factory</Name>
+		<ID>2869</ID>
+	</Item>
+
+	<Item>
+		<Name>Organic Mortar Applicators</Name>
+		<ID>2870</ID>
+	</Item>
+
+	<Item>
+		<Name>Recursive Computing Module</Name>
+		<ID>2871</ID>
+	</Item>
+
+	<Item>
+		<Name>Self-Harmonizing Power Core</Name>
+		<ID>2872</ID>
+	</Item>
+
+	<Item>
+		<Name>Sterile Conduits</Name>
+		<ID>2875</ID>
+	</Item>
+
+	<Item>
+		<Name>Wetware Mainframe</Name>
+		<ID>2876</ID>
+	</Item>
+</Items>

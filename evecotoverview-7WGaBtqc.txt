@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<eveOverview>
+<globalSettings>
+<useSmallColorTags value="0" />
+<applyOnlyToShips value="0" />
+<hideCorpTicker value="0" />
+<overviewBroadcastsToTop value="1" />
+<columns>
+<column id="ICON" />
+<column id="DISTANCE" />
+<column id="NAME" />
+</columns>
+
+<shipLabels>
+<label>
+<part name="pre" value="&lt;fontsize=14&gt;&lt;b&gt;&lt;color=0xFFE0741B&gt;"></part>
+<part name="state" value="1"></part>
+<part name="type" value="pilot name"></part>
+<part name="post" value="&lt;/color&gt;&lt;/b&gt;&#xA0;"></part>
+</label>
+<label>
+<part name="pre" value="&lt;fontsize=12&gt;&lt;color=0xFFD61BE0&gt;("></part>
+<part name="state" value="1"></part>
+<part name="type" value="ship type"></part>
+<part name="post" value=")&lt;/color&gt;&#xA0;&#xD;&#xA;"></part>
+</label>
+<label>
+<part name="pre" value="&lt;fontsize=12&gt;&lt;color=0xFF1B87E0&gt;["></part>
+<part name="state" value="1"></part>
+<part name="type" value="corporation"></part>
+<part name="post" value="]&lt;/color&gt;&#xA0;"></part>
+</label>
+<label>
+<part name="pre" value="&lt;fontsize=12&gt;&lt;color=0xFF24E01B&gt;-{"></part>
+<part name="state" value="1"></part>
+<part name="type" value="alliance"></part>
+<part name="post" value="}-&lt;/color&gt;&#xA0;&#xD;&#xA;"></part>
+</label>
+<label>
+<part name="pre" value="&lt;fontsize=10&gt;&lt;color=0xFFFFFFFF&gt;Distance: "></part>
+<part name="state" value="1"></part>
+<part name="type" value="None"></part>
+<part name="post" value="&lt;/color&gt;&#xA0;"></part>
+</label>
+</shipLabels>
+</globalSettings>
+</eveOverview>

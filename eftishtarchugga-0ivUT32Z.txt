@@ -1,0 +1,29 @@
+[Ishtar, Chugga]
+
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Medium Armor Repairer II
+Adaptive Nano Plating II
+Magnetic Field Stabilizer II
+
+10MN Afterburner II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+Cap Recharger II
+
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Auto Targeting System I
+[Empty High slot]
+
+Medium Auxiliary Nano Pump I
+Medium Nanobot Accelerator I
+
+
+Ogre II x5
+Garde II x5
+
+All V's + Ogre II's: 921 dps, 360 guristas tank, 575m/s
+All V's + Garde II's: 886 dps, 260 guristas tank, 575m/s

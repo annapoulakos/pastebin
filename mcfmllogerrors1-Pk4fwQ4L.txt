@@ -1,0 +1,43 @@
+2013-06-02 18:20:42 [INFO] [STDERR] Found 38 OpenAL paths
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Users\JimP\AppData\Roaming\.technic\quernspack\bin\natives\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\Java\jre7\bin\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Windows\Sun\Java\bin\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Windows\system32\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Windows\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\AMD APP\bin\x86_64\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\AMD APP\bin\x86\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Windows\system32\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Windows\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Windows\System32\Wbem\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Windows\System32\WindowsPowerShell\v1.0\\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Program Files (x86)\Java\jre7\bin\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load .\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load C:\Users\JimP\Downloads\OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] Failed to load OpenAL64.dll: C
+2013-06-02 18:20:42 [INFO] [STDERR] T
+2013-06-02 18:20:42 [INFO] [STDERR] F
+2013-06-02 18:20:42 [INFO] [STDOUT] OpenAL initialized.
+2013-06-02 18:20:43 [INFO] [STDOUT]

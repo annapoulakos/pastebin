@@ -1,0 +1,28 @@
+[Ishtar, Choo Choo]
+
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Magnetic Field Stabilizer II
+Shield Power Relay II
+Shield Power Relay II
+
+Experimental 10MN Afterburner I
+Kinetic Deflection Field II
+Cap Recharger II
+Large F-S9 Regolith Shield Induction
+Large F-S9 Regolith Shield Induction
+
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Auto Targeting System I
+[Empty High slot]
+
+Medium Core Defense Field Purger I
+Medium Core Defense Field Purger I
+
+
+Ogre II x5
+Garde II x5
+
+All V's: 921/886 dps (Ogre/Garde), 589m/s (607m/s with Zor's custom), 379 guristas tank

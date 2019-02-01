@@ -1,0 +1,37 @@
+	<form id="edit_area" method="post" action="admin_area.php">
+		<fieldset>
+			<legend><img src="" alt="" /> Edit Area</legend>
+			<p class="notes">
+				This form allows you to edit existing areas.
+			</p>
+			<table>
+				<tbody>
+					<tr class="hvr">
+						<td>Select Area by Name:</td>
+						<td>
+							<select name="area_name">[@option_areas]</select>
+						</td>
+					</tr>
+					<tr class="hvr">
+						<td>New Area Name:</td>
+						<td><input type="text" name="new_name" value=""/></td>
+					</tr>
+					<tr>
+						<td>
+							<button type="submit" name="submit" value="update">
+								<img src="./img/tick.png" alt="" />
+								Update
+							</button>
+						</td>
+						<td>
+							<button type="submit" name="submit" value="delete">
+								<img src="./img/cancel.png" alt="" />
+								Delete
+							</button>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<input type="hidden" name="area_id" value="[@area_id]" />
+		</fieldset>
+	</form>

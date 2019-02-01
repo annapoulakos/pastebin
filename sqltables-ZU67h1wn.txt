@@ -1,0 +1,21 @@
+@comp
+	PRIMARY KEY: .comp_id
+	.pn
+	.e_id
+	.name
+	.limit
+	.price
+	.low
+	.high
+	
+@part_e
+	PRIMARY KEY: .part_e_id
+	.e_id
+	.e_qty
+	.core_id
+	
+@part_ct
+	PRIMARY KEY: .part_ct_id
+	.pn
+	.qty
+	.core_id

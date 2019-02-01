@@ -1,0 +1,28 @@
+Concept
+	A stock-market game where users vote on the actions being made by their player.
+	Each player takes an action at pre-determined intervals based on voting by users.
+	Each player is based on a cloud server in a different region, allowing users in different regions to have separate players.
+
+Basic Rules
+	Each hour, users place votes on what they want their player to do.
+	A player takes actions based on votes. Shares are purchase/sold in batchs of 25, 50 or 100.
+	A player gets to make three actions per turn:
+		Actions are ranked by number of votes, with the top three vote-takers becoming the actions taken.
+		The first action affects 100 shares.
+		The second action affects 50 shares.
+		The third action affects 25 shares.
+
+	Each day, a new news article will be presented. 
+	These articles will be things like stock splits or new research developments.
+		For instance, a company may announce a new product, increasing the value of all shares by 5%.
+		Or, a company may announce that their CFO mismanaged their finances, causing all shares to lose 10% of their value.
+	Each company will have an assortment of available articles. Something like 8 or 10 for each.
+
+	There are a number of sectors being used in the main stock market. 
+	These are based on Bloomberg's Market Sectors list. (http://investing.businessweek.com/research/sectorandindustry/overview/sectorlanding.asp?region=us)
+	Each sector will have three industries.
+	Each industry will have three companies in it.
+
+	All companies will have a set number of available shares for sale.
+	All players will start with the same amount of liquid cash.
+	All stocks will start at the same price (pending news articles).

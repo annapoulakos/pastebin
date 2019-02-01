@@ -1,0 +1,18 @@
+[Enyo, Enyo_Standard]
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+F85 Peripheral Damage System I
+Adaptive Nano Plating II
+
+Faint Epsilon Warp Scrambler I
+X5 Prototype Engine Enervator
+1MN MicroWarpdrive II
+
+Light Ion Blaster II, Void S
+Light Ion Blaster II, Void S
+Light Ion Blaster II, Void S
+Light Ion Blaster II, Void S
+[empty high slot]
+
+Small Hybrid Burst Aerator I
+Small Hybrid Collision Accelerator I

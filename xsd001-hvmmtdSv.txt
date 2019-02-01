@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLScema">
+
+<!-- Type Definitions -->
+<xs:simpleType name="status_response">
+	<xs:restriction base="xs:integer">
+		<xs:enumeration value="OK" />
+		<xs:enumeration value="ZERO_RESULTS" />
+		<xs:enumeration value="OVER_QUERY_LIMIT" />
+		<xs:enumeration value="REQUEST_DENIED" />
+		<xs:enumeration value="INVALID_REQUEST" />
+	</xs:restriction>
+</xs:simpleType>
+
+<!-- Element Definitions -->
+<xs:element name="lat" type="xs:decimal" />
+<xs:element name="lng" type="xs:decimal" />
+<xs:element name="status" type="status_response" />
+
+<!-- Complex Definitions -->
+<xs:element name="geocoder_response">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element ref="status" />
+			<xs:element ref="lat" />
+			<xs:element ref="lng" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+</xs:schema>

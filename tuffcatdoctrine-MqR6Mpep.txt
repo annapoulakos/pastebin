@@ -1,0 +1,268 @@
+All,
+
+For those I haven't met greetings. I like to make other peoples spaceships go boom and was one of Nerds FC's. Below is a project I started in Nov that I want to share with E27 to gauge others interest. This isn't a casual deal. If you wish to be a part of it reply to this thread but commit yourself to the character and PvP skill training that will be required. These are not easy ships to fly but have the potential to be quite lethal.
+
+Due to the ever changing IRC PvP training requirements I have pushed back the implimentation dates a few weeks. Starting in DEC I will start calling for some inter-corp training of these ship for any interested.
+
+TUFFCAT fleet operational order:
+
+Mission: Create a uniform fleet doctrine involving advanced level ships and rape anyone stupid enough to take us on.
+
+Objectives: 
+
+1. Have fun being the best we can be in shiny ships
+
+2. Train character skills to enable one to fly two corp standard fit PvP Tengus costing NO MORE than 500-550 mil. One DPS and One Logi fit must be flyable by all. TUFFCAT pilots will own 2 PvP tengus
+
+3. Include one standard fit Command Ship and a few pilots skilled appropriately to use it
+
+4. Train PvP skills to employ the Tengus effectively
+
+5. Include Loki’s as mitigation for those non caldari pilots as a temporary measure and also as backup in the case the command ship is not available. Loki pilots need to be able to fill three roles and employ as required. 
+   A. Cloaky Loki scout and prober
+   B. Anti-tackle face rape DPS
+   C. Provide fleet bonus
+
+6. You will lose your beloved shiny at some point, TUFFCAT pilots will have enough spine to brush this off and get back on the horse without drama. I will surely get you killed at some point as we are going to be aggressive. I don’t want to hear bitching and moaning about losing Caldari BS 5 etc, etc. If that is going to crush you please do not volunteer
+
+7. Corp Members of this Op must have enough ISK to fly the Tengu aggressively and decisively. We are not going through all of this trouble to be pussies about this.
+
+8. Defend our space and property from any fleet
+
+9. TUFFCATS become the muscle behind IRC RRT fleets but will never fall under a non TUFFCAT FC directly. Our actions will be coordinated however.
+
+10. TUFFCATS form the emergency response core of northern CE. Based on the new flavour of the month, the new glass cannon BC’s with BS weapons this fleet is an exact counter and it’s going to be brutal to watch.
+
+11. Institute a ship loss partial compensation program with all of the loot and salvage we will be getting. But make no mistake, you will not make money in this endeavour. If that is your motivation don't join.
+
+End state: 
+
+A viable T3 based endgame PvP capability in NRDH which will allow us to engage nearly any fleet effectively and grow our EPEEN to unprecedented heights fuelled by dead enemy ships.  A fleet which has the capability to single handedly bring down pretend space empires.
+
+'This is cool, how do I join?'
+ 
+Notify me of your intention to join this effort
+
+So far the list includes:
+
+Tuff Gunner
+Abin
+Primer2
+CommandoJon
+Naeftif
+Carson Moore
+Johnson Johnson
+WiredMerchant
+Takashi
+Demkaio
+Mad Moxie
+Mr50Cal
+Shadow
+Talanderz
+Annubus
+Kalana
+Bashfool
+Malice
+Larodil
+Rodeick
+Tempelton
+Sblay
+
+FC volunteers:
+Tuff Gunner
+Primer2
+Mr50Cal
+
+TUFFCAT FCing isn't for the light hearted as mistakes will be costly. I am positive my name will be used in vain much more than it is now.
+
+Going forward:
+
+1. Rat yourself enough money to buy the ship and fit you will be focused on from VAF. Keep in mind we are trying to supply the AB's through CJ for now. If you are spending over 550mil you are doing it wrong or getting ripped off. Give the ship 3 weeks to get here. Get both the PvP and the Logi versions. CJ has made them Corp kits on VAF.
+
+2. TUFFCAT pilots institute a schedule to accomplish the required character training in a timely manner. Again, this largely depends on the level of training required by IRC for the new PvP alliance fits. If T2 guns are required it will slide this project 30-60 days.
+
+3. Fly the T3 around VY and skirmish near station with other corpies to begin to get a feel for it. We will not employ this fleet until we have the tactics down cold. 
+
+4. Once operational new TUFFCAT applicants will have to pass fairly strict PvP skill evaluations run by the FC's and senior TUFFCAT members before allowed into this elite club
+
+10 Commandments of the fleet
+
+1. TUFFCAT fleet only operates under the control of a trained and certified TUFFCAT FC
+2. TUFFCAT pilots will be trained and certified by TUFFCAT FC’s before engaging in combat operations
+3. Non Tengu's will be primaried
+4. TUFFCAT fleet will always fly with Logi
+5. Every Tengu pilot will be trained and able to fly in the logi role 
+6. Every TUFFCAT Tengu pilot will have a DPS and a Logi fit ship in their hangar
+7. TUFFCAT fleet will be a minimum of 9 for operations. We will not operate without a ship providing links. 
+8. Smaller gangs of a few ships can and will operate against reds around VY under the appropriate FC
+9. TUFFCAT pilots are forbidden to solo PvP in fleet fit Tengu’s. These ARE NOT solo PvP fits and we do not want them showing up on the Killboard for many reasons.
+10. Thou shalt not cry like a little bitch or put all of your ships up on contract when you get popped
+
+Min fleet composition:
+1x command ship (Loki can substitute for command ship if it is not avail)
+1x Loki or Tengu nullified cloaky scout
+4x Tengu DPS
+2xTengu Logi
+1 xLoki frig killer-if avail
+
+Approved Ship Fits –**Deviations are not authorized at this time**
+
+TENGU DPS
+Reactor Control Unit II
+Power Diagnostic System II
+Ballistic Control System II
+Ballistic Control System II
+Nanofiber Internal Structure II
+
+Invulnerability Field II
+Photon Scattering Field II
+Invulnerability Field II
+Shadow Serpentis 100MN Afterburner
+Warp Disruptor II
+Large Shield Extender II
+
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+
+Medium Core Defence Field Extender I
+Medium Core Defence Field Extender I
+Medium Core Defence Field Extender I
+
+Tengu Defensive - Supplemental Screening
+Tengu Electronics - Dissolution Sequencer
+Tengu Engineering - Capacitor Regeneration Matrix
+Tengu Offensive - Accelerated Ejection Bay
+Tengu Propulsion - Fuel Catalyst
+
+TENGU Logistics
+Power Diagnostic System II
+Power Diagnostic System II
+Power Diagnostic System II
+Reactor Control Unit II
+Nanofiber Internal Structure II
+
+Shadow Serpentis 100MN Afterburner
+Cap Recharger II
+Photon Scattering Field II
+Invulnerability Field II
+Large Shield Extender II
+
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Large S95a Partial Shield Transporter
+Medium S95a Partial Shield Transporter
+
+Medium Core Defence Field Extender I
+Medium Capacitor Control Circuit I
+Medium Capacitor Control Circuit I
+
+Tengu Defensive - Adaptive Shielding
+Tengu Electronics - Dissolution Sequencer
+Tengu Engineering - Capacitor Regeneration Matrix
+Tengu Offensive - Accelerated Ejection Bay
+Tengu Propulsion - Fuel Catalyst
+
+
+CLAYMORE command
+Nanofiber Internal Structure II
+Ballistic Control System II
+Power Diagnostic System II
+Nanofiber Internal Structure II
+
+Large Shield Extender II
+Invulnerability Field II
+Invulnerability Field II
+Large Shield Extender II
+Cap Recharger II
+Core B-Type 100MN Afterburner
+
+Skirmish Warfare Link - Evasive Maneuvers
+Skirmish Warfare Link - Interdiction Maneuvers
+Skirmish Warfare Link - Rapid Deployment
+Heavy Missile Launcher II, Caldari Navy Thunderbolt Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Thunderbolt Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Thunderbolt Heavy Missile
+425mm AutoCannon II, Barrage M
+425mm AutoCannon II, Barrage M
+
+Medium Core Defence Field Extender I
+Medium Ancillary Current Router II
+
+
+LOKI Command
+Loki, CMD Loki]
+Power Diagnostic System II
+Power Diagnostic System II
+Nanofiber Internal Structure II
+Republic Fleet Tracking Enhancer
+Gyrostabilizer II
+
+Core C-Type 100MN Afterburner
+Invulnerability Field II
+Large Shield Extender II
+Large Shield Extender II
+
+Skirmish Warfare Link - Rapid Deployment (I am no experts on Links, need suggestions on the best ways to harminize with Command Ship)
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
+220mm Vulcan AutoCannon II, Republic Fleet EMP M
+
+Medium Core Defence Field Extender I
+Medium Core Defence Field Extender I
+Medium Core Defence Field Extender I
+
+Loki Defensive - Warfare Processor
+Loki Electronics - Dissolution Sequencer
+Loki Engineering - Power Core Multiplier
+Loki Propulsion - Fuel Catalyst
+Loki Offensive - Turret Concurrence Registry
+
+Things left to do:
+
+1. I have received some quality fits from a few folks on the Loki anti frig fit. I need more debate on the forums on finding an approved fit due to my lack of experience with the ship.
+
+2. Cloaky Loki and Tengu fits.  Same as above here.  My criteria is cov ops, nullified, tanked, fast, web and tackle while being able to probe.
+
+3. Implementation schedule (TBD based on new alliance PVP fit training requirements):
+
+   Proposed:
+   - Initial Operating Capability (IOC) – 15 Jan – This means we are able to engage like sized gangs in and around VY
+   - Final Operating Capability (FOC) – 15 Feb – Fully up and ready to rumble
+
+   - Small scale training begins soon. This will consists of engagements in VY/MO corp v corp to understand ships caps and lims. Utilization of training grounds begins soon after hopefully in MO.
+
+How we are going to train:
+   
+I will be getting on my bandwagon a bit below because I never have liked the way fleets are commanded and controlled in this game. I always wondered what dork made these rules up in their basement. Well this is my chance to change some of this BS. 
+
+   - Manuevering, solo, in section, in division and in fleet. I am running this sucker like we do it in the real world. We will operate in sections (with a wingman) and divisions (4). Our tactics will revolve around manuevering these formations to gain tactical advantage. Because of the lack of manueverability with the AB on I do not think having the entire fleet move in one blob is most efficient. We will have FC's, Section leaders and Division Leaders.   
+
+   - Comms. In the real world we do not say FC break and all of this other horseshit during combat ops. Comms are structured and everyone isn't blabbing constantly. You will learn what is important information and how to say it so that it is passed in a succinct manner clearly and the radios remain uncluttered. We will also use Mumble for main fleet FC comms and TS3 for Section and Division leader comms. We will learn to set Mumble at a higher volume level than TS3 so it is clear what level of fleet command is giving orders. I will train everyone on how this works and the art of shutting up and listening. I am going to try and bring actual strike fighter comm procedures  into the TUFFCAT fleet and hopefully you guys are disciplined enough to make it work. If not back to FC break which makes me cringe like fingernails on a chalkboard every time I hear it..... When we are crushing fleets with mostly silent comms we know we are getting it right.
+
+   - Situational Awareness (SA). Only possessed by a few people I have ever met in this game but it really is not that hard. First is to shut thou mouth and listen. Scouts and fleet members will learn what is valuable information for the FC and what is BS. TUFFCAT fleet members will take ownership and won't blindly follow the FC. The better everyones SA the less that needs to be said on comms.  The less said on comms the more effective our fleet.  WHAT DID HE SAY?  That's right, endless blabbering on comms with non essential information at random times actually hurts fleet performance. Have products at your computer such as system and regional maps. Notepads to take ---you guessed it ---notes. Our fleet ops cards which I will be designing based on what I used in the real world. Overview setup, Tactical Overlay, How to process intel, etc, etc. We will achieve a level of SA on the battlefield which will give us a distinct advantage over our enemies.
+
+   - Prepping the Battlefield. Bookmarks, Tacticals, off grid, on grid, warp-ins, safes, knowing gate procedures cold, scanning, probing, aligning, knowing when a BM is burned.....all of this stuff will be second nature (need a WIKI write up on this from a brave volunteer). The scout will be working his ass off and we will ALL learn how to do it and do it right.
+
+   - Targeting. When, Who, Why and How. The FC tells the fleet when it will engage. Primaries should all be done via broadcast, saying it just clutters up the radio.   Words like Target, Skate, Abort, Leeroy (actually used at TOPGUN now if you can believe that), Commit, Notch, Crank, etc will carry new meaning. Priorities will be set and followed. Fast tackle, webs, ECM first then a logical progression.
+
+   - Engagement. When we engage it is to ruthlessly kill. How to maximize firepower from an advantageous position is a key skill we need to develop and execute. Using speed and geometry we exploit our own advantages and the enemy fleets weaknesses. For instance short range reds we fight outside their effective range. Large Arties we are in their face after relieving them of fast tackle and recons. Etc. Bubblers make us yawn due to our speed and our Lokis insta pop them. Nuets aren’t such a big deal anymore. DPS Lokis have their own set of priorites and rape any Inty's, Rapiers, Lachesis, Cruse, etc, etc etc. 
+
+                  - Egress.  How to disengage and live to fight another day or, more likely, reposition ourselves to re-engage. Dealing with the limitations and capabilites of the 100mn AB as well as what the enemy is doing, understanding aggression, point and web ranges, ECM, etc.
+
+The bottom line is that we will have to work at this. In the process we will learn actual cool tactics such as the grinder, single side offset, Bonzai, Skate, Double and Single Pince. Standard TOPGUN stuff from a decade ago when I was in my prime. Other FC's will add to these procedures as we find out what works and what doesn’t work and fine tune our tactics. 
+
+The end state is a fleet of unmatched capability in EVE.
+
+I hope everyone is getting pumped for this, I am....
+
+Tuff Gunner
+TUFFCAT Commander
+

@@ -1,0 +1,22 @@
+<html>
+<head>
+<script>
+function mouseout(e) { e.backgroundColor = '#fff'; }
+function mouseover(e) { e.backgroundColor = '#fcc'; }
+</script>
+</head>
+<body>
+
+<table border="1">
+  <tr onmouseover="mouseover(this);" onmouseout="mouseout(this);">
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr onmouseover="this.style.backgroundColor='#fcc';" onmouseout="this.style.backgroundColor='#fff';">
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
+
+</body>
+</html>

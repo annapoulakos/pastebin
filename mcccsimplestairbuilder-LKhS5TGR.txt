@@ -1,0 +1,73 @@
+--[[
+Simple 3x3 Staircase script for Computer Craft Turtles
+]]
+local tArgs = {...}
+if #tArgs ~= 1 then
+	print "Usage: stairs <depth>"
+	return
+end
+
+local depth = tonumber(tArgs[1])
+
+local fuel = 1
+function refuel()
+	if turtle.getFuelLevel() < 50 then
+		turtle.select(fuel)
+		turtle.refuel(1)
+	end
+end
+
+function aboutFace()
+	turtle.turnRight()
+	turtle.turnRight()
+end
+
+function fullLine()
+	turtle.dig()
+	turtle.forward()
+	turtle.turnRight()
+	turtle.dig()
+	aboutFace()
+	turtle.dig()
+	turtle.turnLeft()
+	turtle.forward()
+end
+
+function partialLine()
+	turtle.dig()
+	turtle.forward()
+	turtle.turnLeft()
+	turtle.dig()
+	turtle.turnLeft()
+	turtle.forward()
+end
+
+function floorCorner()
+	turtle.turnRight()
+	turtle.dig()
+	aboutFace()
+	turtle.dig()
+	turtle.turnRight()
+	fullLine()
+	partialLine()
+end
+
+function floorMiddle()
+	turtle.turnRight()
+	turtle.dig()
+	turtle.turnLeft()
+	fullLine()
+	fullLine()
+end
+
+while depth > 0 do
+	refuel()
+	turtle.digDown()
+	turtle.down()
+	floorCorner()
+	turtle.digDown()
+	turtle.down()
+	floorMiddle()
+	turtle.turnRight()
+	depth = depth - 2
+end

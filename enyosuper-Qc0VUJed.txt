@@ -1,0 +1,40 @@
+[Enyo, Enyo_Neutron]
+Tuvan's Modified Magnetic Field Stabilizer
+Tuvan's Modified Magnetic Field Stabilizer
+Tuvan's Modified Magnetic Field Stabilizer
+Adaptive Nano Plating II
+
+'Delineative' Warp Scrambler
+Domination Stasis Webifier
+1MN Digital Booster Rockets
+
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+Republic Fleet Rocket Launcher, Caldari Navy Mjolnir Rocket
+
+Small Hybrid Burst Aerator I
+Small Hybrid Collision Accelerator I
+
+
+[Implants]
+Halo Alpha
+Halo Beta
+Halo Gamma
+Halo Delta
+Halo Epsilon
+Hardwiring - Zainou 'Deadeye' ZGS1100
+Hardwiring - Eifyr and Co 'Gunslinger' AX-2.5
+Zor's Custom Navigation Hyper-Link
+Hardwiring - Eifyr and Co 'Gunslinger' CX-2.5
+Hardwiring - Zainou 'Deadeye' ZMM1100
+
+[Stats]
+Without heat: 584 dps, 2481m/s, Scrams at 9km, Webs at 15km, 5,284 ehp
+With heat: 669 dps, 3541m/s, Scrams at 10.8km, Webs at 19.5km, 5284 ehp
+
+[Miscellaneous]
+CPU: 192/193.75
+PG: 59.32/62.5
+Cap lasts: 4m37s

@@ -1,0 +1,12 @@
+2013/06/02 18:20:23 [SEVERE] Jun 02, 2013 6:20:23 PM org.spoutcraft.launcher.technic.rest.RestAPI setupDefault
+SEVERE: Unable to connect to the Rest API at http://solder.technicpack.net/api/modpack/?include=full Running Offline instead.
+org.spoutcraft.launcher.exceptions.RestfulAPIException: Error accessing URL [http://solder.technicpack.net/api/modpack/?include=full]
+	at org.spoutcraft.launcher.technic.rest.RestAPI.getRestObject(RestAPI.java:287)
+	at org.spoutcraft.launcher.technic.rest.RestAPI.setupDefault(RestAPI.java:101)
+	at org.spoutcraft.launcher.technic.rest.RestAPI.getDefault(RestAPI.java:119)
+	at org.spoutcraft.launcher.technic.PackThread.loadPack(PackThread.java:58)
+	at org.spoutcraft.launcher.technic.PackThread.run(PackThread.java:49)
+Caused by: java.io.IOException: Server returned HTTP response code: 502 for URL: http://solder.technicpack.net/api/modpack/?include=full
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at org.spoutcraft.launcher.technic.rest.RestAPI.getRestObject(RestAPI.java:277)
+	... 4 more

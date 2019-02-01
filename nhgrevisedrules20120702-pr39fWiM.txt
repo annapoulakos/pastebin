@@ -1,0 +1,64 @@
+Newbee Hunger Games 
+Official Rules and Regulations
+==============================
+
+tl;dr: Annasys is in charge of the Newbee Hunger Games and makes all the rules.
+
+Be advised, the rules and regulations stated herein are subject to change at any time with or without notice at the sole discretion of the Newbee Hunger Games ruling body. All decisions made by the ruling body are final, regardless of outcome. There are a number of rule changes since the last Newbee Hunger Games. Please make sure you read them and know what you are getting into. 
+
+Sections
+--------
+
+	1) Newbee Rules
+	2) Sponsor Rules
+	3) Tourney Rules
+	4) Betting Rules
+	5) Addendums (or something)
+	
+
+*** Newbee Rules ***
+
+Newbees are subject to a number of rules. These rules may or may not change depending on the whim of Annasys. Just an FYI. 
+
+	1) Have fun.
+	2) Have fun or else.
+	3) Newbees must have less than 5 million SP. If necessary, we will validate through API.
+	4) Newbees are eligible to have a sponsor. Sponsors have specific rules that they must adhere to.
+	5) Newbees are eligible to use the arena. Please contact Annasys for more information via evemail.
+	6) Collect lots of cash and prizes.
+	
+*** Sponsor Rules ***
+
+Sponsors are subject to a number of rules. These rules may or may not change depending on the whim of Annasys. Just an FYI.
+
+	1) Don't be retarded.
+	2) If you must be retarded, please restrain yourself.
+	3) Sponsors are allowed to gift one item to their newbee prior to the start of the Newbee Hunger Games. This gift is to be contracted to Annasys no later than 4 days prior to the start of the event. Gifts recieved after this time are ineligble. Gifts also require a small fee. This fee is added to the total newbee prize pot. Fees are determined by the NHG ruling body. 
+	4) Sponsors are not allowed to directly interfere in the event itself. This means no shooting newbees, no bumping newbees, no ewar on newbees, etc, etc, etc. This list is not exhaustive. If you intend on doing something to give your newbee a boost, it's probably not permitted.
+	
+*** Tourney Rules ***
+
+	There are a number of tourney types that we will be employing in order to give newbees a chance to do different things, as well as give bitter vets a chance to laugh maniacally at :shobon: errors (which may end up not being errors, ie Smartbombing Merlin).
+	
+	General Rules
+		1) No Podding. Period. We will pod you if you are caught podding someone. This includes pointing pods that happen to be in the area where a smartbomb is going off. Don't be a dick.
+		2) No warping off grid. Warping off grid will result in your disqualification. This rule may be suspended during specific events.
+		3) Did I mention no podding?
+		4) Newbees are not allowed to warp to the Spectator Area.
+	
+	>> Thunderdome
+		This tourney type, each newbee warps in to a location. After the timer counts down, newbees are to shoot each other until they are all dead except one. 
+	
+	>> Arena
+		This tourney type will be held in an arena. Arenas will be laid out prior to the event, and all newbees will be eligible to practice on them. Arenas may or may not have hazards in them. Warping between locations is acceptable.
+		
+	>> Team Thunderdome
+		This tourney type is similar to the Thunderdome tourney type, except that newbees will be teamed up. The last group with a ship in play will be considered the winning team.
+		
+	>> Capture The Flag
+		This tourney type is built in a specialized arena. Each team will have a can with a specific object in it. These cans can only be warped to by NHG members. Each can will have an item in it. This item must be picked up and returned to your base. After a flag is captured, both flags will be reset, and the game will start again. You need 3 captures to win this type of event.
+
+*** Betting Rules ***
+
+
+*** Addendums ***

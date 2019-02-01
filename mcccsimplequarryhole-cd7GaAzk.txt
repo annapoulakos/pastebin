@@ -1,0 +1,89 @@
+--[[
+Simple Quarry Hole Creator
+]]
+
+local fuel=1
+function refuel()
+	if turtle.getFuelLevel() < 50 then
+		print "Refueling Turtle..."
+		turtle.select(1)
+		turtle.refuel(1)
+	end
+end
+
+function walkableTunnel(size)
+	for n=1,size do
+		refuel()
+		turtle.dig()
+		turtle.forward()
+		turtle.digUp()
+	end
+end
+
+function tunnel(size)
+	for n=1,size do
+		refuel()
+		turtle.dig()
+		turtle.forward()
+	end
+end
+
+local left = 678
+local right = 876
+local last = left
+function turn(last)
+	if left == last then
+		turtle.turnRight()
+		tunnel(1)
+		turtle.turnRight()
+		return right
+	else
+		turtle.turnLeft()
+		tunnel(1)
+		turtle.turnLeft()
+		return left
+	end
+end
+
+function goUp()
+	refuel()
+	turtle.digUp()
+	turtle.up()
+	turtle.turnRight()
+	turtle.turnRight()
+end
+
+function doLevel()
+	for n=1,10 do
+		tunnel(10)
+		last = turn(last)
+	end
+	tunnel(10)
+	goUp()
+end
+
+function setup()
+	walkableTunnel(2)
+	turtle.turnLeft()
+	tunnel(5)
+	turtle.turnRight()
+end
+
+function teardown()
+	refuel()
+	for n=1,6 do
+		turtle.down()
+	end
+	turtle.turnRight()
+	for n=1,5 do
+		turtle.forward()
+	end
+end
+
+print "Starting quarry hole..."
+setup()
+for n=1,6 do
+	doLevel()
+end
+teardown()
+print "Quarry finished"

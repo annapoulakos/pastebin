@@ -1,0 +1,3 @@
+#include<iostream>
+using namespace std;
+int main(int cFfNk, char*vEnP[]){int*ecbv=new int[20];int bmck=0;while(bmck<20){_ cout<<"\x45\x6e\x74\x65\x72\x20\x61\x20\x76\x61\x6c\x75\x65\x3a\x20";_ cin>>ecbv[bmck++];}int wp883,f8eh,e8uw,vtpc,uttn,rbqu;wp883=f8eh=e8uw=vtpc=uttn=rbqu=0;for(int v8x7=0;v8x7<20;v8x7++){if(ecbv[v8x7]%2==0){uttn++;e8uw+=ecbv[v8x7];}else{vtpc++;f8eh+=ecbv[v8x7];}}wp883=e8uw+f8eh;rbqu=uttn+vtpc;_ cout<<"\x53\x75\x6d\x20\x6f\x66\x20"<<rbqu<<"\x20\x6e\x75\x6d\x62\x65\x72\x73\x3a\x20"<<wp883<<_ endl;_ cout<<"\x53\x75\x6d\x20\x6f\x66\x20"<<uttn<<"\x20\x65\x76\x65\x6e\x20\x6e\x75\x6d\x62\x65\x72\x73\x3a\x20"<<e8uw<<_ endl;_ cout<<"\x53\x75\x6d\x20\x6f\x66\x20"<<vtpc<<"\x20\x6f\x64\x64\x20\x6e\x75\x6d\x62\x65\x72\x73\x3a\x20"<<f8eh<<_ endl;return 0;}

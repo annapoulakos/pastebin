@@ -1,0 +1,94 @@
+
+<!doctype html>
+
+<html>
+
+<head>
+
+<title>Widget Test</title>
+
+
+
+<style type="text/css">
+
+	#widget_core { position: absolute; top: 0; left: 0; width: 100%; z-index:100; background: url('./img/overlay_50p.png'); display:none; text-align: left; };
+
+	
+
+	.widget_holder { position: absolute; width: 300px; height: 200px; z-index: 200; top: 50%; left: 50%; margin-top: -100px; margin-left: -150px; }
+
+	
+
+	ul { list-style: none; }
+
+</style>
+
+</head>
+
+
+
+<body>
+
+	
+
+<article>
+
+	<h2>Click below</h2>
+
+	<button id="clicker">Click me</button>
+
+</article>
+
+
+
+<div id="widget_core">
+
+	<div class="widget_holder">
+
+	<ul>
+
+		<li>This ia the widget</li>
+
+		<li>Here are some instructions</li>
+
+		<li>Below is your widget embed code</li>
+
+		<li><textarea id="widget_embed_code" rows="5" cols="40">&lt;embed src="#" height="100" width="200" /&gt;</textarea></li>
+
+		<li><button id="ok">OK</button></li>
+
+	</ul>
+
+	</div>
+
+</div>
+
+		
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+	$('#widget_core').css('height', $(document).height());
+
+	
+
+	$('#clicker').click(function(){$('#widget_core').show();});
+
+	$('#ok').click(function(){$('#widget_core').hide();});
+
+	
+
+	$('#wec').focus(function(){$(this).focus().select();});
+
+});
+
+</script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+HTML
+
+<div class="my-class">Content</div>
+<div class="my-other-class">Other Content</div>
+
+Javascript (using jQuery)
+
+function myFunction(){
+	$('my-class').toggleClass( 'my-class my-class-inactive' );
+	$('my-other-class').toggleClass( 'my-other-class my-other-class-inactive' );
+};

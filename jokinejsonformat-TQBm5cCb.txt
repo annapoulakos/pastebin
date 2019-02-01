@@ -1,0 +1,144 @@
+[
+	{
+		"genre": "Rock"
+		, "albums": [
+			{
+				"name": "Some Album Name"
+				, "cover": "URL to album cover"
+				, "tracks": [
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					}
+				]
+			},
+			{
+				"name": "Some Album Name"
+				, "cover": "URL to album cover"
+				, "tracks": [
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					}
+				]
+			},
+			{
+				"name": "Some Album Name"
+				, "cover": "URL to album cover"
+				, "tracks": [
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					}
+				]
+			}
+		]
+	},
+	{
+		"genre": "Rock"
+		, "albums": [
+			{
+				"name": "Some Album Name"
+				, "cover": "URL to album cover"
+				, "tracks": [
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					}
+				]
+			},
+			{
+				"name": "Some Album Name"
+				, "cover": "URL to album cover"
+				, "tracks": [
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					}
+				]
+			},
+			{
+				"name": "Some Album Name"
+				, "cover": "URL to album cover"
+				, "tracks": [
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					},
+					{
+						"title": "Title of Track"
+						, "src": "URL to track source"
+					}
+				]
+			}
+		]
+	}
+]

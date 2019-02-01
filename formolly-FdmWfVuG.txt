@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<title>alkjsdhfa</title>
+		<style>
+			.appraisal-fees-table { width: 960px; margin: 0 auto; border: 1px solid grey; border-collapse: collapse; }
+			td {padding: 4px; border-left: 1px solid black; border-right: 1px solid black; }
+			tr {  border-top: 1px solid gray; border-bottom: 1px solid gray; }
+		</style>
+	</head>
+	<body>
+
+<table class="appraisal-fees-table">
+	<tr>
+		<th colspan="3">Desktop Appraisals</th>
+	</tr>
+	<tr>
+		<td>1st Valuation</td>
+		<td>US 1580.</td>
+		<td rowspan="3">Choose Current, Past, or Future Valuations, Residual Value Projections, Fair Market Values, Liquidation Values, Replacement Cost New or Reproduction Cost New.</td>
+	</tr>
+	<tr>
+		<td>2nd-5th Valuation</td>
+		<td>US 1280.00</td>
+	</tr>
+	<tr>
+		<td>6th and Additional valution</td>
+		<td>US 500.00</td>
+	</tr>
+	
+	
+</table>
+
+<dl>
+	<dt>Desktop Appraisals</dt>
+	<dd>
+		<table>
+			<tr>
+				<td>1st valuation</td>
+				<td>1580</td>
+			</tr>
+			<tr>
+				<td>2-5 valuations each</td>
+				<td>1280</td>
+			</tr>
+		</table>
+	</dd>
+	
+	<dt><strong>Enterprise Solution (yearly subscription)</strong> - <em>US $1670.00</em></dt>
+	<dd style="padding-left: 2em;">
+	Enterprise Solution is HeliValue$' option for large-scale users and networked offices, providing multi-user access through a single account. Companies with multiple users of The Official Helicopter Blue Book® are eligible for this efficient option, saving both time and money. Our Enterprise Solution allows for an unlimited number of "Enterprise Users" within each licensed corporate domain for a very reasonable per-user fee. This entitles each Enterprise User, to unlimited internet access to The Official Helicopter Blue Book® at www.helivalues.com, unlimited informal value consultations, a 20% discount on all HeliValue$ Desktop appraisal fees, and up to five residual value projection worksheets per month during their subscription period. (Additional residual value worksheets will be charged at the normal rate without any discount.)
+	</dd>
+	<dt>Additional Enterprise User - <strong>US $370.00</strong></dt>
+	<dd>
+		Each Enterprise User's subscription will run concurrent with its associated ES license.
+	</dd>
+</dl>
+
+</body>
+</html>

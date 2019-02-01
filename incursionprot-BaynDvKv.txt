@@ -1,0 +1,38 @@
+[Proteus, Incursion Prot - Void]
+Damage Control II
+Imperial Navy Energized Adaptive Nano Membrane
+Shadow Serpentis Armor Explosive Hardener
+1600mm Reinforced Rolled Tungsten Plates I
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+
+Y-T8 Overcharged Hydrocarbon I Microwarpdrive
+Fleeting Propulsion Inhibitor I
+Fleeting Propulsion Inhibitor I
+
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+Heavy Neutron Blaster II, Void M
+
+Medium Hybrid Collision Accelerator I
+Medium Ancillary Current Router I
+Medium Trimark Armor Pump I
+
+Proteus Defensive - Augmented Plating
+Proteus Electronics - Dissolution Sequencer
+Proteus Engineering - Power Core Multiplier
+Proteus Offensive - Hybrid Propulsion Armature
+Proteus Propulsion - Localized Injectors
+
+
+Hammerhead II x5
+
+
+With All V's: 
+952dps @ 3.4+4.7
+1334m/s
+92,186 ehp

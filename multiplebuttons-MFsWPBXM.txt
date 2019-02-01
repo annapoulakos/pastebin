@@ -1,0 +1,9 @@
+<form name="form3" method="post" action="">
+  <input type="checkbox" name="UserID" value="1"> User 1<br>
+  <input type="checkbox" name="UserID" value="2"> User 2<br>
+  <input type="checkbox" name="UserID" value="3"> User 3<br>
+  <br>
+  <input type="hidden" name="command" value="">
+  <input type="button" onclick="document.form3.command.value = 'user_disable'; document.form3.submit( );" value="De-active selected user(s)">
+  <input type="button" onclick="document.form3.command.value = 'user_delete'; document.form3.submit( );" value="Permanently delete selected user(s)">
+</form>

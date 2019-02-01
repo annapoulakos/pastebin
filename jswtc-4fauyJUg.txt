@@ -1,0 +1,11 @@
+<script type="text/javascript">
+var require_validation = true;
+
+function validate_form(){
+	
+}
+
+function button_on_click(){
+	if (require_validation) validate_form();
+}
+</script>

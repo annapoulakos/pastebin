@@ -1,0 +1,92 @@
+--[[
+Simple tunnel digging script
+
+Usage:
+	t <#>
+	
+	where # is the length of the tunnel to be dug
+	
+Requirements:
+	Fuel needs to go in slot 1
+	Torches need to go in slot 2
+]]
+
+local fuel = 1
+local torch = 2
+
+function refuel()
+	if turtle.getFuelLevel() < 50 then
+		print "Refueling..."
+		turtle.select(fuel)
+		turtle.refuel(1)
+	end
+end
+
+local runs = 10
+
+function tryDig()
+	while turtle.detect() do
+		turtle.dig()
+		sleep(0.5)
+	end
+end
+
+function tryDigUp()
+	while turtle.detectUp() do
+		turtle.digUp()
+		sleep(0.5)
+	end
+end
+
+function placeTorch()
+	turtle.select(torch)
+	turtle.digDown()
+	turtle.placeDown()
+end
+
+function goForward()
+	refuel()
+	tryDig()
+	turtle.forward()
+end
+
+function digVertical()
+	tryDigUp()
+	turtle.digDown()
+end
+
+function makePane()
+	goForward()
+	digVertical()
+end
+
+function panelRight()
+	makePane()
+	turtle.turnRight()
+	makePane()
+	makePane()
+	turtle.turnLeft()
+end
+
+function panelLeft()
+	makePane()
+	turtle.turnLeft()
+	makePane()
+	makePane()
+	turtle.turnRight()
+end
+
+function makeSection()
+	panelRight()
+	panelLeft()
+	panelRight()
+	panelLeft()
+	placeTorch()
+end
+
+print "Starting well-lit tunnel application"
+for n=1,runs do
+	makeSection()
+end
+
+print "Finished Tunneling"

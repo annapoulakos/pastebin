@@ -1,0 +1,32 @@
+local _fuel = 1
+local _has_fuel = true
+local _redstone = 2
+local _light = 3
+local _powered = 4
+local _rail = 5
+local _block = 9
+
+local _has_error = false
+
+if turtle.getItemCount(_fuel) < 1 then
+    print "Requires at least 1 fuel to start."
+    _has_error = true
+end
+if turtle.getItemCount(_redstone) < 1 then
+    print "Requires at least 1 redstone to start."
+    _has_error = true
+end
+if turtle.getItemCount(_light) < 1 then
+    print "Requires at least 1 torch if you want the tunnel lighted."
+end
+if turtle.getItemCount(_rail) < 1 then
+    print "Requires at least 1 powered rail to start."
+    _has_error = true
+end
+if turtle.getItemCount(_block) < 1 then
+    print "You should start with at least 1 block."
+end
+
+if _has_error then
+    return
+end

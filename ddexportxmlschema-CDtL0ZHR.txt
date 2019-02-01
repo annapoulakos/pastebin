@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- XML Schema for Dungeon Defenders Item Exporting Feature -->
+<!-- Temporary Schema Documentation -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ItemBox" type="itemBox" />
+	<xs:element name="Item" type="itemActual" />
+
+	<xs:attribute name="type" type="itemType" use="required" />
+
+	<xs:simpleType name="itemType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Pet" />
+			<xs:enumeration value="Weapon" />
+			<xs:enumeration value="Helmet" />
+			<xs:enumeration value="Chest" />
+			<xs:enumeration value="Glove" />
+			<xs:enumeration value="Boot" />
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="itemBox">
+		<xs:sequence>
+			<xs:element name="Item" type="itemActual" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="itemActual">
+		<xs:sequence>
+			<xs:element name="Name" type="xs:string" />
+			<xs:element name="Attack" type="xs:integer" minOccurs="0" />
+			<xs:choice>
+				<xs:group ref="armorResistsGroup" />
+				<xs:group ref="weaponAttributeGroup" />
+			</xs:choice>
+			<xs:group ref="heroAttribGroup" />
+			<xs:group ref="skillGroup" />
+			<xs:group ref="towerAttribGroup" />
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:group name="armorResistsGroup">
+		<xs:sequence>
+			<xs:element name="genericResist" type="xs:integer" />
+			<xs:element name="fireResist" type="xs:integer" minOccurs="0" />
+			<xs:element name="elecResist" type="xs:integer" minOccurs="0" />
+			<xs:element name="poisResist" type="xs:integer" minOccurs="0" />
+		</xs:sequence>
+	</xs:group>
+	
+	<!-- Weapon Attribute Group needs to be split into different weapon/pet types -->
+	<!-- in a future version of this document. -->
+	<xs:group name="weaponAttributeGroup">
+		<xs:sequence>
+			<xs:element name="meleeAttack" type="xs:integer" />
+			<xs:element name="rangedAttack" type="xs:integer" minOccurs="0" />
+			<xs:choice>
+				<xs:element name="fireAttack" type="xs:integer" minOccurs="0" />
+				<xs:element name="elecAttack" type="xs:integer" minOccurs="0" />
+				<xs:element name="poisAttack" type="xs:integer" minOccurs="0" />
+			</xs:choice>
+			<xs:element name="knockback" type="xs:integer" minOccurs="0" />
+			<xs:element name="projectiles" type="xs:integer" minOccurs="0" />
+			<xs:element name="shotsPerSecond" type="xs:integer" minOccurs="0" />
+			<xs:element name="chargeSpeed" type="xs:integer" minOccurs="0" />
+			<xs:element name="ammunition" type="xs:integer" minOccurs="0" />
+			<xs:element name="reload" type="xs:integer" minOccurs="0" />
+			<xs:element name="projectileSpeed" type="xs:integer" minOccurs="0" />
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:group name="heroAttribGroup">
+		<xs:sequence>
+			<xs:element name="heroHealth" type="xs:integer" minOccurs="0" />
+			<xs:element name="heroDamage" type="xs:integer" minOccurs="0" />
+			<xs:element name="runSpeed" type="xs:integer" minOccurs="0" />
+			<xs:element name="castSpeed" type="xs:integer" minOccurs="0" />
+		</xs:sequence>
+	</xs:group>
+	<!-- This group should be split into a choice group with skill names -->
+	<!-- for each skill listed -->
+	<xs:group name="skillGroup">
+		<xs:sequence>
+			<xs:element name="skill1" type="xs:integer" minOccurs="0" />
+			<xs:element name="skill2" type="xs:integer" minOccurs="0" />
+		</xs:sequence>
+	</xs:group>
+	<xs:group name="towerAttribGroup">
+		<xs:sequence>
+			<xs:element name="towerHealth" type="xs:integer" minOccurs="0" />
+			<xs:element name="towerDamage" type="xs:integer" minOccurs="0" />
+			<xs:element name="towerRange" type="xs:integer" minOccurs="0" />
+			<xs:element name="towerSpeed" type="xs:integer" minOccurs="0" />
+		</xs:sequence>
+	</xs:group>
+</xs:schema>

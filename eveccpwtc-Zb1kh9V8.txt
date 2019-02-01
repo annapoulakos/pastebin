@@ -1,0 +1,45 @@
+Traceback (most recent call last):
+  File "launcher.py", line 42, in <module>
+  File "lib\initialization.pyc", line 145, in StartLauncher
+  File "lib\userSettings.pyc", line 23, in Get
+  File "lib\utils.pyc", line 25, in SGet
+TypeError: 'NoneType' object is not subscriptable
+     Locals by frame, innermost last:
+       Frame <module> in launcher.py at line 54:
+        NoInternetError  = <class 'lib.exceptions.NoInternetError'>
+        ServerUnreachableException = <class 'lib.exceptions.ServerUnreachableException'>
+        Shutdown         = <function Shutdown at 0x04084B30>
+        StartLauncher    = <function StartLauncher at 0x043973F0>
+        __builtins__     = <module '__builtin__' (built-in)>
+        __doc__          = '\n    This is the entry point into the launcher, it handles setting up the working\n    directory, logging and finally importing and starting the laucher within a\n    log-proof try/exeception clause so we can catch almost any exception and display\n    an error message.\n'
+        __name__         = '__main__'
+        __package__      = None
+        exc_plus         = <function exc_plus at 0x03F03EB0>
+        lib              = <module 'lib' from 'G:\Program Files (x86)\CCP\EVE\launcher\library.zip\lib\__init__.pyc'>
+        localization     = <module 'localization' from 'G:\Program Files (x86)\CCP\EVE\launcher\library.zip\localization\__init__.pyc'>
+        os               = <module 'os' from 'G:\Program Files (x86)\CCP\EVE\launcher\library.zip\os.pyc'>
+        socket           = <module 'socket' from 'G:\Program Files (x86)\CCP\EVE\launcher\library.zip\socket.pyc'>
+        sys              = <module 'sys' (built-in)>
+        threading        = <module 'threading' from 'G:\Program Files (x86)\CCP\EVE\launcher\library.zip\threading.pyc'>
+        wx               = <module 'wx' from 'G:\Program Files (x86)\CCP\EVE\launcher\library.zip\wx\__init__.pyc'>
+        zipextimporter   = <module 'zipextimporter' from 'G:\Program Files (x86)\CCP\EVE\launcher\library.zip\zipextimporter.pyc'>
+       Frame StartLauncher in lib\initialization.pyc at line 145:
+        app              = <wx._core.App; proxy of <Swig Object of type 'wxPyApp *' at 0x4a868f8> >
+        folder           = u'G:\\Program Files (x86)\\CCP\\EVE'
+        settings         = <lib.userSettings.UserSettings instance at 0x07382350>
+       Frame Get in lib\userSettings.pyc at line 23:
+        default          = None
+        key              = 'Settings/Language'
+        self             = <lib.userSettings.UserSettings instance at 0x07382350>
+        self.default     = None
+        self.settings    = None
+        self.settingsFile = u'G:\\Program Files (x86)\\CCP\\EVE\\launcher\\cache\\settings.yaml'
+        self.usingInfoDefaults = False
+        useInfoDefaults  = False
+       Frame SGet in lib\utils.pyc at line 28:
+        _tmp             = None
+        d                = None
+        default          = None
+        key              = 'Settings'
+        keys             = ['Settings', 'Language']
+        path             = 'Settings/Language'

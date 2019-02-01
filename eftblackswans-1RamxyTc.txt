@@ -1,0 +1,76 @@
+***
+The following fits are approved fits for the Black Swan Swarm
+***
+
+--441dps @ 4.1km, 905m/s, 5.3k EHP (All V's)
+--Cap stable with SAR off.
+[Enyo, Black Swans Enyo]
+
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Small Armor Repairer II
+Adaptive Nano Plating II
+
+1MN Afterburner II
+Warp Scrambler II
+X5 Prototype Engine Enervator
+
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+[Empty High slot]
+
+Small Hybrid Collision Accelerator I
+Small Hybrid Burst Aerator I
+
+
+Hobgoblin II x1
+
+-- 362dps @4km, 888m/s, 5k EHP (All V's)
+-- Cap stable with SAR off.
+[Ishkur, Black Swans Ishkur]
+
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Small Armor Repairer II
+Adaptive Nano Plating II
+
+1MN Afterburner II
+Stasis Webifier II
+Warp Scrambler II
+
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+Light Neutron Blaster II, Void S
+[Empty High slot]
+
+Small Hybrid Collision Accelerator I
+Small Hybrid Burst Aerator I
+
+
+Hobgoblin II x5
+Hornet EC-300 x5
+
+
+-- 288dps @ 9km (322dps @ 7km with Hail), 987m/s, 7k EHP (All V's)
+-- Cap Stable with SAR off.
+[Wolf, Black Swans Wolf]
+
+Gyrostabilizer II
+Gyrostabilizer II
+Small Armor Repairer II
+Damage Control II
+Adaptive Nano Plating II
+
+1MN Afterburner II
+Stasis Webifier II
+
+200mm AutoCannon II, Republic Fleet EMP S
+200mm AutoCannon II, Republic Fleet EMP S
+200mm AutoCannon II, Republic Fleet EMP S
+200mm AutoCannon II, Republic Fleet EMP S
+[Empty High slot]
+
+Small Projectile Collision Accelerator I
+Small Projectile Burst Aerator I

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<geocoder_response 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="./xsd/geocoder_response.xsd">
+
+	<status>OK</status>
+	<lat>0.00</lat>
+	<lng>0.00</lng>
+
+</geocoder_response>

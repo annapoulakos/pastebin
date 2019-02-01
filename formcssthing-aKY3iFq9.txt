@@ -1,0 +1,12 @@
+<form method="" action="">
+  <div class="form-controls">
+    <label for="subscriber_email">Email Address <i class="required"></i></label>
+    <input type="text" name="subscriber_email" id="subscriber_email">
+  </div>
+
+  <hr>
+
+  <div>
+    <p>Some additional information will go here.</p>
+  </div>
+</form>

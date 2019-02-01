@@ -1,0 +1,143 @@
+<?php
+include '../bootstrap.php';
+core_import('vendor.idiorm');
+core_import('idiorm.models');
+
+class JsonView {
+    private function SetHeaders () {
+        header('Content-Type: application/json');
+    }
+
+    public static function Render ($params) {
+        $this->SetHeaders();
+
+        echo json_encode($params);
+    }
+}
+
+class HtmlView {
+    private function SetHeaders () {
+        header('Content-Type: text/html');
+    }
+
+    public static function Render ($params) {
+        $this->SetHeaders();
+
+        $template = 'template';
+
+        if (is_array($params)) {
+            // Load List View Template
+        } else {
+            // Load Detail View Template
+        }
+    }
+}
+
+class Application {
+    private static $route;
+
+    public static function GetModel () {
+        if (is_null(self::$route)) {
+            self::GenerateRoute();
+        }
+        
+        $model = self::$route->model;
+
+        if ($model == 'default') {
+            return new stdClass;
+        }
+
+        return \Idiorm\Model::factory($model);
+    }
+
+    /**
+     * GetView returns a View object
+     *
+     * @return {View} Returns one object of {JsonView, HtmlView}
+     */
+    public static function GetView () {
+        if (is_null(self::$route)) {
+            self::GenerateRoute();
+        }
+
+        $view = self::$route->view;
+
+        return new $view();
+    }
+
+    public static function ProcessRequest ($model) {
+        $response = array();
+        if ($model instanceof \Idiorm\Model) {
+            // Process?
+            if (is_null(self::$route)) {
+                self::GenerateRoute();
+            }
+
+            $method = self::$route->method;
+
+            if (method_exists(self, $method)) {
+                $response = self::$method($model);
+            }
+        }
+
+        return $response;
+    }
+
+    public static function get ($model) {}
+    public static function post ($model) {}
+    public static function put ($model) {}
+    public static function delete ($model) {}
+
+    public static function GenerateRoute () {
+        $tokens = explode('?', $_SERVER['REQUEST_URI']);
+
+        $request = preg_split('/\//', $tokens[0], -1, PREG_SPLIT_NO_EMPTY);
+        $script = preg_split('/\//', $_SERVER['SCRIPT_NAME'], -1, PREG_SPLIT_NO_EMPTY);
+
+        $diff = array_diff($request, $script);
+        
+        self::$raw_route = $diff;
+
+        $route = new stdClass;
+        $route->method = strtolower($_SERVER['REQUEST_METHOD']);
+        $route->uri = $_SERVER['REQUEST_URI'];
+
+        $route->view = 'JsonView';
+        $route->model = 'default';
+        $route->id = null;
+        $route->params = array();
+
+        if (count($diff) > 0) {
+            $view = array_shift($diff);
+            if ($view == 'html') {
+                $route->view = 'HtmlView';
+            }
+
+            if (count($diff) > 0) {
+                $route->model = array_shift($diff);
+
+                if (count($diff) > 0) {
+                    $route->id = array_shift($diff):
+
+                    if (count($diff) > 0) {
+                        $route->params = $diff;
+                    }
+                }
+            }
+        }
+
+        $query_vars = array();
+        if (count($tokens) > 1) {
+            $queries = explode('&', $tokens[1]);
+
+            foreach ($queries as $query) {
+                list($key, $value) = explode('=', $query);
+
+                $query_vars[$key] = $value;
+            }
+        }
+        $route->query_vars = $query_vars;
+
+        self::$route = $route;
+    }
+}

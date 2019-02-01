@@ -1,0 +1,94 @@
+--[[
+    Simple Quarry Layout Script
+
+    Usage:
+        quarry <#>
+
+        where # is the size of the quarry (square)
+
+    Requirements:
+        Slot 1: Fuel
+        Slot 2: Landmarks
+        Slot 3: Torches
+        Slot 4: Cobble
+]]
+local tArgs = {...}
+local size = tonumber(tArgs[1])
+
+local fuel = 1
+local landmarks = 2
+local torch = 3
+local cobble = 4
+
+function refuel()
+    if turtle.getFuelLevel() < 50 then
+        print "Refueling..."
+        turtle.select(fuel)
+        turtle.refuel(1)
+    end
+end
+
+function tryDig()
+    while turtle.detect() do
+        turtle.dig()
+        sleep(0.5)
+    end
+end
+
+function tryDigUp()
+    while turtle.detectUp() do
+        turtle.digUp()
+        sleep(0.5)
+    end
+end
+
+function placeDown()
+    if not turtle.detectDown() then
+        turtle.select(cobble)
+        turtle.placeDown()
+    end
+end
+
+function makeFloor()
+    turtle.select(cobble)
+    turtle.placeDown()
+end
+
+function returnHome()
+    local stop = size - 1
+    for n=1,size do
+        refuel()
+        turtle.back()
+    end
+end
+
+function placeLandmark()
+    turtle.select(landmarks)
+    refuel()
+    turtle.back()
+    turtle.place()
+end
+
+function goForward()
+    refuel()
+    turtle.forward()
+end
+
+function makeLine()
+    for n=1,size do
+        tryDig()
+        tryDigUp()
+        goForward()
+    end
+
+    placeLandmark()
+end
+
+makeLine()
+returnHome()
+turtle.forward()
+turtle.turnRight()
+makeLine()
+returnHome()
+turtle.turnLeft()
+placeLandmark()
