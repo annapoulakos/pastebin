@@ -1,3 +1,4 @@
+<?php
 // This is Tim's Code:
 $query_to_run = "INSERT INTO jos_chronoforms_quote_home_finished_leads (recordtime, ipaddress, primary_name, email, phone, birthdate, address, year_built, apt, construction, city, square_footage, state, central_air, zip, wood_burner, city_township, township, coverage_amount, deductible, umbrella, notes, contact_method, quote_office_location) VALUES ('".date('Y-m-d')." - ".date('H:i:s')."', '".$_SERVER['REMOTE_ADDR']."', '".$_POST['primary_name']."', '".$_POST['email']."', '".$_POST['phone']."', '".$_POST['birthdate']."', '".$_POST['address']."', '".$_POST['year_built']."', '".$_POST['apt']."', '".$_POST['construction']."', '".$_POST['city']."', '".$_POST['square_footage']."', '".$_POST['state']."', '".$_POST['central_air']."', '".$_POST['zip']."', '".$_POST['wood_burner']."', '".$_POST['city_township']."', '".$_POST['township']."', '".$_POST['coverage_amount']."', '".$_POST['deductible']."', '".$_POST['umbrella']."', '".$_POST['notes']."', '".$_POST['contact_method']."', '".$_POST['quote_office_location']."')";
 
@@ -17,7 +18,7 @@ class core
 	public function __isset($key) { return isset($this->_data[$key]); }
 	public function __unset($key) { unset($this->_data[$key]); }
 	public function __toString() { return '('.get_class($this).') '.count($this->_data).' items stored.'; }
-	public function __destruct() 
+	public function __destruct()
 	{
 		foreach($this->_data as $d) unset($d);
 		unset($d);
@@ -25,9 +26,9 @@ class core
 	}
 }
 
-$fields = array( 
+$fields = array(
 	'primary_name', 'email', 'phone', 'birthdate',
-	'address', 'year_built', 'apt', 'construction', 'city', 'square_footage', 
+	'address', 'year_built', 'apt', 'construction', 'city', 'square_footage',
 	'state', 'central_air', 'zip', 'wood_burner', 'city_township', 'township',
 	'coverage_amount', 'deductible', 'umbrella', 'notes', 'contact_method', 'quote_office_location'
 	);

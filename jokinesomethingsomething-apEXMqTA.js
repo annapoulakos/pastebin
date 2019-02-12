@@ -35,16 +35,16 @@ angular.module('voting', [])
 }])
 .controller('controller', ['$scope', function($scope){
   $scope.model = {
-    value: 0;
+    value: 0
   };
 }]);
 
-In your HTML:
+// In your HTML:
 
-    <div class="input-group">
-      <input class="form-control has-outer-icon roundedInput numberSelect" type="text" value={{value}}>
-      <div class="input-group-addon">
-        <div class="arrow-up" up-vote value="model" ></div>
-        <div class="arrow-down" down-vote value="model"></div>
-      </div>
-    </div>
+//     <div class="input-group">
+//       <input class="form-control has-outer-icon roundedInput numberSelect" type="text" value={{value}}>
+//       <div class="input-group-addon">
+//         <div class="arrow-up" up-vote value="model" ></div>
+//         <div class="arrow-down" down-vote value="model"></div>
+//       </div>
+//     </div>
