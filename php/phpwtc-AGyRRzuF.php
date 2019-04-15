@@ -1,3 +1,4 @@
+<?php
 	protected function parseData($data, $table, $measure, $isTwoCol, $type)
 	{
 		// Type 0 is regular data with metric/imperial

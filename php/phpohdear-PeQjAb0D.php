@@ -1,3 +1,4 @@
+<?php
 	$a = function($h,$v,&$i){ $i[] = array('label'=>$h,'value'=>$v); };
 	$b = function($x){ return !is_numeric($x); };
 
